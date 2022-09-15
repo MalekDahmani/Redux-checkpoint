@@ -1,0 +1,27 @@
+
+
+.task {
+    width: 100%;
+    overflow-wrap: break-word;
+}
+.task-box {
+    width: 100%;
+  
+    text-align: center;
+    margin: auto;
+    overflow-wrap: break-word;
+    margin-top: 20px;
+}
+.row {
+    width: 40%;
+    margin: auto    ;
+}
+.col {
+    width: 100%;
+
+}
+
+button{
+    margin-left: 30px;
+}
+
